@@ -1,0 +1,88 @@
+{
+  "seed": 42,
+  "tick": 59,
+  "time_seconds": 2.950000,
+  "actor_count": 8,
+  "actors": [
+    {
+      "actor_id": 0,
+      "type": "car",
+      "route_id": 2,
+      "motion_state": "car_approach",
+      "x": 32.867283,
+      "y": 5.250000,
+      "heading": 3.141593,
+      "velocity": 6.834348
+    },
+    {
+      "actor_id": 1,
+      "type": "car",
+      "route_id": 2,
+      "motion_state": "car_approach",
+      "x": 15.617584,
+      "y": 5.250000,
+      "heading": 3.141593,
+      "velocity": 2.742126
+    },
+    {
+      "actor_id": 2,
+      "type": "car",
+      "route_id": 2,
+      "motion_state": "car_approach",
+      "x": 8.912104,
+      "y": 5.250000,
+      "heading": 3.141593,
+      "velocity": 1.499937
+    },
+    {
+      "actor_id": 3,
+      "type": "car",
+      "route_id": 2,
+      "motion_state": "car_approach",
+      "x": 25.052608,
+      "y": 1.750000,
+      "heading": 3.141593,
+      "velocity": 8.337086
+    },
+    {
+      "actor_id": 4,
+      "type": "pedestrian",
+      "route_id": 3,
+      "motion_state": "ped_approach",
+      "x": -34.676399,
+      "y": 8.000000,
+      "heading": 0.000000,
+      "velocity": 1.562109
+    },
+    {
+      "actor_id": 5,
+      "type": "pedestrian",
+      "route_id": 2,
+      "motion_state": "ped_approach",
+      "x": -51.011017,
+      "y": -8.000000,
+      "heading": 0.000000,
+      "velocity": 0.584617
+    },
+    {
+      "actor_id": 6,
+      "type": "pedestrian",
+      "route_id": 1,
+      "motion_state": "ped_approach",
+      "x": 8.000000,
+      "y": 19.261324,
+      "heading": -1.570796,
+      "velocity": 1.748664
+    },
+    {
+      "actor_id": 7,
+      "type": "pedestrian",
+      "route_id": 1,
+      "motion_state": "ped_approach",
+      "x": 8.000000,
+      "y": -30.164230,
+      "heading": 1.570796,
+      "velocity": 0.501168
+    }
+  ]
+}
