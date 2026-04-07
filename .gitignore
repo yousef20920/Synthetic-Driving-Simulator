@@ -1,0 +1,13 @@
+.planning/
+.claude/
+CLAUDE.md
+
+build/
+cmake-build-*/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+data/generated/
+outputs/
