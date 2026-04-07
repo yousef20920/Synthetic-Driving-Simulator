@@ -1,0 +1,11 @@
+# Low-noise BEV preset
+obstacle_intensity: 20
+drivable_intensity: 110
+lane_intensity: 190
+vehicle_intensity: 245
+pedestrian_intensity: 225
+speckle_intensity_min: 180
+speckle_intensity_max: 255
+jitter_amplitude: 8
+dropout_probability: 0.01
+speckle_probability: 0.005

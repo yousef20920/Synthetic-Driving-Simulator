@@ -1,0 +1,11 @@
+# High-noise BEV preset
+obstacle_intensity: 20
+drivable_intensity: 110
+lane_intensity: 190
+vehicle_intensity: 245
+pedestrian_intensity: 225
+speckle_intensity_min: 160
+speckle_intensity_max: 255
+jitter_amplitude: 28
+dropout_probability: 0.06
+speckle_probability: 0.03
